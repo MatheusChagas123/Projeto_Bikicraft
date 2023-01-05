@@ -1,14 +1,14 @@
-@import url(/css/global/global.css);
-/*utilidade*/
-@import url(/css/utilidades/tipografia.css);
-@import url(/css/utilidades/cores.css);
+@import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 
-@import url(/css/global/header.css);
-/*utilidades*/
-@import url(/css/utilidades/componentes.css);
+@import "./global/header.css";
 
-/*home*/
-@import url(/css/home/introducao.css);
+/* Utilidades */
+@import "./utilidades/componentes.css";
 
-/*Bicicletas*/
-@import url(/css/bicicletas/biciclatas-lista.css);
+/* Home */
+@import "./home/introducao.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
